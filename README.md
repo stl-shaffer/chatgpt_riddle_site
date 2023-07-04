@@ -1,4 +1,4 @@
-# chatgpt_riddle_site
+# ChatGPT Riddle Site
 A website to interact with an AI chat bot that will give you a riddle to answer 
 
 
